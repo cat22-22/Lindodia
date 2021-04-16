@@ -12,6 +12,7 @@ let truncateString = function(str, num)
       } 
 }
 
+
 writeOutput(truncateString("Hoje está um lindo dia", 10));
 
 let titleCase = function(str)
